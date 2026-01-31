@@ -1,6 +1,7 @@
 # 🏎️ Scuderia Ferrari 3D Experience
 
 A premium, high-performance landing page built with **Next.js 15**, **Three.js**, and **Tailwind CSS v4**. Experience the pinnacle of Italian automotive engineering through an interactive 3D web experience.
+<img width="1322" height="693" alt="image" src="https://github.com/user-attachments/assets/8132d9c1-cc18-446f-b491-b016903f72ec" />
 
 ## 🌟 Features
 
