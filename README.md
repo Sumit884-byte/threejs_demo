@@ -63,4 +63,4 @@ export const modelConfig = {
 
 ---
 
-Built with passion for speed and engineering excellence. 🇮🇹
+Built with passion for speed and engineering excellence.
